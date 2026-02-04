@@ -34,7 +34,7 @@ chmod +x install.sh
 
 # ⚡ FlashScan
 
-Hola Buenass. Here is **FlashScan**, a tool I designed for those of us who want to **get straight to the point** during an audit. I was tired of running separate Nmap commands, hunting subdomains on one side and fuzzing on the other, so I automated the whole workflow into this framework.
+HEEEY. Here is **FlashScan**, a tool I designed for those of us who want to **get straight to the point** during an audit. I was tired of running separate Nmap commands, hunting subdomains on one side and fuzzing on the other, so I automated the whole workflow into this framework.
 
 It’s a tool that helps you save time and focus on what really matters: finding the entry vector.
 
