@@ -1,0 +1,14 @@
+# Ignorar carpetas de resultados de FlashScan
+FlashScan_*
+Escaneo_*
+Recon_*
+
+# Ignorar logs de FFUF
+ffuf_*.log
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos ocultos del sistema
+.DS_Store
