@@ -1,6 +1,6 @@
 # ⚡ FlashScan
 
-Hola Buenass. Les traigo **FlashScan**, una herramienta que diseñé para los que queremos **ir mas rápido** en una auditoría. Estaba cansado de tirar comandos sueltos de Nmap, buscar subdominios por un lado y hacer fuzzing por otro, así que automaticé todo el flujo en este framework.
+Hola Buenass. Les traigo **FlashScan**, una herramienta que diseñé para los que queremos **ir mas rápido en un CTF o auditoria** en una auditoría. Estaba cansado de tirar comandos sueltos de Nmap, buscar subdominios por un lado y hacer fuzzing por otro, así que automaticé todo el flujo en este framework.
 
 Es una herramienta que te ayuda a no perder tiempo y enfocarte en lo que importa: encontrar el vector de entrada.
 
